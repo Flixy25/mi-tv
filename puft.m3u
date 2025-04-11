@@ -1,4 +1,7 @@
 #EXTM3U
+#NOVELAS
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://i.imgur.com/Agtfbfi.png" ,13 Teleseries (720p)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
 #Películas y series
 #EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/geVZYUA.png" ,Afortunadas TV (720p)
