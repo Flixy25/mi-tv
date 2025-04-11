@@ -1,18 +1,7 @@
-#RELIGION
+#EXTM3U
 
-#INFANTIL 
-
-#CINE Y SERIES 
+#EXTINF:-1 group-title="CINE Y SERIES",Cine y Series
 https://raw.githubusercontent.com/Flixy25/mi-tv/refs/heads/main/cineyseries.m3u
 
-
-#ENTRETENIMIENTO 
-
-
-#VARIADO
-
-#DEPORTES
-
-
-#musica
+#EXTINF:-1 group-title="MUSICA",Música
 https://raw.githubusercontent.com/Flixy25/mi-tv/refs/heads/main/m%C3%BAsica.m3u
