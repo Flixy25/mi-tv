@@ -1,0 +1,33 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/radioenvivo/images/recta-pfm-tv.png" group-title="Musica",Portal FoxMix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png" group-title="Musica",Retro Music Television
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f12080cb1fe8a90df78e425df3f7a6d3.webp" group-title="Musica",m2o TV
+https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://maximachile.cl/wp-content/uploads/2023/09/2021.gif" group-title="Musica",Maxima FM
+https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximafmchile_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/92304f302ee6793a5539dd19d3261ed2.webp" group-title="Musica",RCKTV
+https://inliveserver.com:1936/11530/11530/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://theretrochannel.tv/img/retroplayer.jpg" group-title="Musica",The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/82feb5_a2f12f6a37674d0992e2ee48d08b0fd4~mv2_d_1280_1235_s_2.jpg" group-title="Musica",TV vconline.cl
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiotv.pro/templates/rt_antares/custom/images/radiotv-1000px.jpg" group-title="Musica",RadioTV.pro
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6Oh8gjWt6z8/X3pWO0u5KcI/AAAAAAAAHy0/s9Kss3RRtnIylSWcoiC3UwuevHBModlogCK4BGAYYCw/s1600/video%2Btour%2Bchannel.jpg" group-title="Musica",Video Tour Channel
+https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica",Turbo Mix TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
