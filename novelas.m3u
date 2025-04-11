@@ -1,4 +1,7 @@
 # novelas 
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/geVZYUA.png" , Romance 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://a.jsrdn.com/hls/23077/romance-channel/logo_20231219_221635_53.png" , Romance 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/66fac3b6-1e3e-47ac-80f2-b1774b4b9d7b/0.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/drama.jpg" , Free tv drama 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-drama-latam/3ba5eb9d-c0b1-4c7b-b50e-7edfb24dd94c/4.m3u8
