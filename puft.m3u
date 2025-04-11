@@ -35,5 +35,8 @@ https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/playlist/amg01024-olympusat
 
 
 #MUSICA
+#EXTINF:-1 group-title="Misica" tvg-logo="https://i.imgur.com/232ndRK.png" ,Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/h/i/hits.png" ,Free tv hits
 https://amg01024-olympusat-flash-ono-ad-3q.amagi.tv/playlist/amg01024-olympusat-flash-ono/playlist.m3u8?url=freetv.com&genre=entertainment&us_privacy=1YNN&coppa=0&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=977a904d1756ff3e0cfc639b6b6dcfe0&dnt=0&undefined=&977a904d1756ff3e0cfc639b6b6dcfe0=&did_type=sessionid&is_lat=0&content_custom_1_param=internal&ic=IAB-1&custom_6=1368&paln=APP_nonce&wta=API_wta&ads.url=freetv.com&ads.genre=entertainment&ads.us_privacy=1YNN&ads.coppa=0&ads.app_bundle=com.olympusat.FreeTV&ads.app_name=FreeTV&ads.app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&ads.did=977a904d1756ff3e0cfc639b6b6dcfe0&ads.dnt=0&ads.is_lat=0&ads.ic=IAB-1
