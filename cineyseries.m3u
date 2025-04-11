@@ -1,1 +1,10 @@
+# CINE Y SERIES 
+
+Lista de canales:
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/geVZYUA.png" ,Afortunadas TV (720p)
+https://cloudvideo.servers10.com:8081/8108/index.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/DVC5w6H.png" ,Aurora Media Films (720p) 
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
 
