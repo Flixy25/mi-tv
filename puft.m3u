@@ -8,6 +8,37 @@ https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.imgur.com/Agtfbfi.png" ,13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
+#EXTINF:-1 group-title="NOVELAS " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2011611b497db73fa9dfc7954871225f.webp" ,Todo Novelas, más Pasiones
+https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8
+
+
+
+#VARIADO
+#EXTINF:-1 group-title="VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/196b71be31a34959e939147b7821a24c.webp" ,Canal 21
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+
+#EXTINF:-1 group-title="VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/98c06158dfc63f09d5ee5d3c8da258f3.webp" ,Telemundo
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1 group-title="VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/70ef4b19ce0f5b973ff48dffd540d3d8.webp" ,Telemundo 51 Miami
+https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/5a817dba-a6f1-4dac-9871-91e9e76e1762/2.m3u8
+
+#EXTINF:-1 group-title="VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/466deabbd42d619f75a9134701c3e39b.webp" ,Retro Plus
+https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d6bc2a5cfa1a5e35236c5b228879b35f.webp" ,Canal 12 El Salvador
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 group-title="VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d800ee1a28bbee6769de24c5c050c40c.webp" ,Canal Once 
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1f29eff9853a4379150d8cf675e86def.webp" ,Canal 10
+https://g1.proy-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+
+
+
+
+
 #Películas y series
 #EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/geVZYUA.png" ,Afortunadas TV (720p)
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
@@ -33,6 +64,21 @@ https://amg01024-olympusat-horrorfy-ono-ad-ky.amagi.tv/playlist/amg01024-olympus
 #EXTINF:-1 group-title="Películas y series" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/f/a/familia.png" ,Free tv familia
 https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/playlist/amg01024-olympusat-juntos-ono/playlist.m3u8?url=freetv.com&genre=Entretenimiento&us_privacy=1YNN&coppa=0&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=977a904d1756ff3e0cfc639b6b6dcfe0&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0&content_custom_1_param=internal&ic=IAB-1&custom_6=2616&paln=APP_nonce&wta=API_wta&ads.url=freetv.com&ads.genre=Entretenimiento&ads.us_privacy=1YNN&ads.coppa=0&ads.app_bundle=com.olympusat.FreeTV&ads.app_name=FreeTV&ads.app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&ads.did=977a904d1756ff3e0cfc639b6b6dcfe0&ads.dnt=0&ads.is_lat=0&ads.ic=IAB-1
 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8d518c7a8b190f28137df6e531fe842e.webp" ,Teleclásica 
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a39ae0962d6b0b34320db480996652b7.webp" ,TVS Retro 
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/efea896119450ed5bdc725f270cf31ec.webp" ,Canela Cinema
+https://amg00658-amg00658c15-canelatv-international-5009.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelacinemalatam-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bb42115ec41fea4ac36dec93b294d2e2.webp" ,Runtime Español
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/888486b6af657ca96c36ad57c7c7ee10.webp" ,Pelimex
+https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
+
 
 
 
@@ -45,3 +91,24 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/h/i/hits.png" ,Free tv hits
 https://amg01024-olympusat-flash-ono-ad-3q.amagi.tv/playlist/amg01024-olympusat-flash-ono/playlist.m3u8?url=freetv.com&genre=entertainment&us_privacy=1YNN&coppa=0&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=977a904d1756ff3e0cfc639b6b6dcfe0&dnt=0&undefined=&977a904d1756ff3e0cfc639b6b6dcfe0=&did_type=sessionid&is_lat=0&content_custom_1_param=internal&ic=IAB-1&custom_6=1368&paln=APP_nonce&wta=API_wta&ads.url=freetv.com&ads.genre=entertainment&ads.us_privacy=1YNN&ads.coppa=0&ads.app_bundle=com.olympusat.FreeTV&ads.app_name=FreeTV&ads.app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&ads.did=977a904d1756ff3e0cfc639b6b6dcfe0&ads.dnt=0&ads.is_lat=0&ads.ic=IAB-1
+
+
+
+
+
+#DEPORTES
+#EXTINF:-1 group-title="DEPORTES " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c871bb969e8076f811e7f7522ba7e545.webp" ,Real Madrid 
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 group-title="DEPORTES " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2ecbfa8a3f25cc1212dbcd975383b55a.webp" ,Azteca Deportes
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+
+
+
+#NOTICIAS E INFORMATIVO
+#EXTINF:-1 group-title="NOTICIAS E INFORMATIVO " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/26c5a30029b81339ef17a02aa420f64c.webp" ,RT 
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS E INFORMATIVO " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/26c5a30029b81339ef17a02aa420f64c.webp" ,RT 
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
