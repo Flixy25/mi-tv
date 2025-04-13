@@ -4,6 +4,25 @@
 #EXTINF:-1 group-title="Religion" tvg-logo="https://i.imgur.com/If6rCuD.png" ,3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Religion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Enlace_Televisi%C3%B3n_logo.svg" ,ENLACE 
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
+
+#EXTINF:-1 group-title="Religion" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69106ca7b0cf264cfa244575f74b451b.webp" ,EXTREMA TV
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="Religion" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b76700d635ef6272ba8cc8e9c7733f59.webp" ,ABN
+https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Religion" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/993729345b0b0258453df34b34cec2ae.webp" ,ASOMAVISION
+https://asomatv.duckdns.org/livestream/stream.m3u8
+
+#EXTINF:-1 group-title="Religion" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9df45c21ce1d67a2800b19969c8c80cc.webp" ,CIELO
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Religion" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/19b1a2b9cf99084c8aa02329621840dd.webp" ,CANAL 27
+https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
+
+
 
 #INFANTIL
 #EXTINF:-1 group-title="Infantil" tvg-logo="No logo" ,Canela Kids
