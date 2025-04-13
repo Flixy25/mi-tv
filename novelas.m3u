@@ -1,286 +1,267 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" ,Cine Sony (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HWHve49nrZcVjmg_Y-OI-Nx_oL46L-76qL91INvMjBDlA5nvuyG41oMk&s=10",,Telemundo Accion
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HWHve49nrZcVjmg_Y-OI-Nx_oL46L-76qL91INvMjBDlA5nvuyG41oMk&s=10",, Telemundo PR (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
+#EXTINF:-1  tvg-logo="https://3.bp.blogspot.com/-ifCagZ77nfw/W6ls2LsJInI/AAAAAAAAAN0/_I_JmomLjTQi9WTGmoACu3q4mRNmJW03wCPcBGAYYCw/s1600/space.png",Space
+http://200.60.124.19:29000/play/a028/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
+http://181.78.105.146:8800/play/a04a
 
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoiQ_vs3tYz-7-yPug63X4XMDp8ctsZKB6fE2MPGyJlSACBvmBG3Epm8&s=10",HBO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoiQ_vs3tYz-7-yPug63X4XMDp8ctsZKB6fE2MPGyJlSACBvmBG3Epm8&s=10",HBO
+http://181.78.105.146:8800/play/a015
 
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313095
-
-
-
-
-
-#EXTINF:-1 tvg-name="HBO2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8Xom4jPZpz-LX0yPLxUcuc90K3R7P1zC4w&usqp=CAU",HBO 2
-
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313098
-
-
-
-
-
-#EXTINF:-1 tvg-name="HBO PLUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb2sCmgBQ3pme8ph_nZoeYBh-h_fVFI_cYprhz32im6PLPqTzSuc--CDI&s=10",HBO PLUS
-
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34892
-
-
-
-
-
-#EXTINF:-1 tvg-name="HBO EXTREME" tvg-logo="https://iili.io/HvUnRDJ.png",HBO EXTREME
-
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313116
-
-
-
-#EXTINF:-1 tvg-id="I304.57396.schedulesdirect.org" tvg-name="hbo family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png",HBO Family
-
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313108
-
-
-
-#EXTINF:-1 tvg-name="CINE INFANTIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfCpSXwASb1RFLRh8jq5k4oc0b3uKhkW-VO8anQw0B-dMhh2GPo3e22twJ&s=10" , INFANTIL
-
-http://177.93.46.163:8000/play/a00k
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0KsKMk5/st-ch.png",STAR CHANNEL
+http://200.60.124.19:29000/play/a01r/index.m3u8
 
 
 #EXTINF:-1 tvg-name="USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi2LjyPtwZW8DIl8WKNNT7kfipK38vg-zXI-8BWp15VmWj_buhXNcOuRM&s=10",USA
+http://200.60.124.19:29000/play/a0a5/index.m3u8
 
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313076
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" ,DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" ,DAZN Combat (1080p)
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
 
-#EXTINF:-1 tvg-name="UNIVERSAL PREMIER" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png",UNIVERSAL PREMIERE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" ,Dazn Ringside (1080p)
+https://aegis-cloudfront-1.tubi.video/adc77f33-ab7b-4553-b886-a31d73b5be93/playlist.m3u8
 
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312912
+#EXTINF:-1 tvg-id="SonyCanalCompetencias.us" tvg-logo="https://i.imgur.com/Dut8Ftk.png" ,Sony Canal Competencias
+https://spt-competencias-1-us.xumo.wurl.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://i.imgur.com/yijitpa.png" ,Sony Canal Novelas
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" ,Azteca 7 
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" ,Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-name="TELEMUNDO ACCION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HWHve49nrZcVjmg_Y-OI-Nx_oL46L-76qL91INvMjBDlA5nvuyG41oMk&s=10",TELEMUNDO ACCION
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/uZdVSoW.png" ,Canal 5
+http://181.78.105.146:2000/play/a038/index.m3u8
 
-https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-name="STAR CHANEL" tvg-logo="https://i.postimg.cc/Y0KsKMk5/st-ch.png",STAR CHANEL
-
-https://tv1.strm2234.xyz/starchannel/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="I436.68317.schedulesdirect.org" tvg-name="golden" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRnp5slhnI2-AHJ9_Rs6s5yz5patSe5G0Oeg&usqp=CAU",Golden
-
-http://181.78.105.146:8800/play/a02b
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Channel
-
-http://177.93.46.163:8000/play/a021
-
-
-
-#EXTINF:-1 tvg-id="I603.90605.schedulesdirect.org" tvg-name="studio universal" tvg-logo="http://3.bp.blogspot.com/-KDeHIqXKzfQ/ThNLgA6wOlI/AAAAAAAAPyE/W9XoHa0HkuU/s1600/studiouniversal.png",Studio Universal
-
-http://177.93.46.163:8000/play/a00r
-
-
-
-#EXTINF:-1 tvg-id="CinemaxSouth.us" tvg-name="cinemax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP5LVxGGnW0PWLMDnsxEfQm1NUTfQ52WOSR_Svchb7oHnXoCPaAIcL6Tk&s=10",Cinemax
-
-http://177.93.46.163:8000/play/a020
-
-
-
-
-
-#EXTINF:-1 tvg-name="CINECANAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4-mVY2sfIXF2grqXAImmFgvU7a0ezriLqg&usqp=CAU",CINECANAL
-
-http://177.93.46.163:8000/play/a007
-
-
-
-
-
-#EXTINF:-1 tvg-id="I217.49336.schedulesdirect.org" tvg-name="fx" tvg-logo="https://vignette.wikia.nocookie.net/iceagefanon/images/d/d7/Fx-logo.png/revision/latest?cb=20151205215619",FX
-
-http://177.93.46.163:8000/play/a024
-
-
-
-#EXTINF:-1 tvg-id="I1518.103379.schedulesdirect.org" tvg-name="space" tvg-logo="https://3.bp.blogspot.com/-ifCagZ77nfw/W6ls2LsJInI/AAAAAAAAAN0/_I_JmomLjTQi9WTGmoACu3q4mRNmJW03wCPcBGAYYCw/s1600/space.png",Space
-
-http://177.93.46.163:8000/play/a023
-
-
-
-#EXTINF:-1 tvg-id="I605.111860.schedulesdirect.org" tvg-name="warner channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel
-
-http://177.93.46.163:8000/play/a011
-
-
-
-#EXTINF:-1 tvg-id="I613.90852.schedulesdirect.org" tvg-name="amc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/640px-AMC_logo_2016.png",AMC
-
-http://190.60.38.114:1010/play/a047/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="I435.80807.schedulesdirect.org" tvg-name="tn*t" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT
-
-http://177.93.46.163:8000/play/a00e
-
-
-
-#EXTINF:-1 tvg-name="PARAMOUNT CHANEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5plMZAtfU8RuEWOB6jWAvsiU1vY2Kullh_WOdYyF6e0A6yZr88vmqOp4&s=10", PARAMOUNT CHANEL
-
-http://181.78.105.146:8800/play/a00z
-
-
-
-
-
-#EXTINF:-1 tvg-id="I266.107365.schedulesdirect.org" tvg-name="tn*t series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png",TNT Series
-
-http://181.78.105.146:8800/play/a042
-
-
-
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqP3U5A6w9ZZi9zmq_hyQjH8nma6k4shLd3pxCPE-977IRXWWJYgkLLY&s=10",AXN
-
-http://190.60.38.114:1010/play/a02e/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="I642.84425.schedulesdirect.org" tvg-name="universal channel" tvg-logo="http://1.bp.blogspot.com/-vZ7-rkLTaQA/TgeZExzxYcI/AAAAAAAABpM/ZtVIi2OJm2o/s1600/Universal+Channel+logo+2010.png",Universal Channel
-
-http://177.93.46.163:8000/play/a008
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="TELEMUNDO ROMANCE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HWHve49nrZcVjmg_Y-OI-Nx_oL46L-76qL91INvMjBDlA5nvuyG41oMk&s=10",TELEMUNDO ROMANCE
-
-https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-name="TELEMUNDO PR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HWHve49nrZcVjmg_Y-OI-Nx_oL46L-76qL91INvMjBDlA5nvuyG41oMk&s=10",, Telemundo PR (1080p)
-
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-
-
-#EXTINF:-1 tvg-name="AZTECA 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2a-TfkSOtv2NTZY7vUjeoi4BqIkjqpS4cftZSnhBs90Zs06wXXr9zCdDx&s=10",Azteca 7
-
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="canal 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KO0tJWPlY2s3LRkuLdaQaK8_NGJ89cqcDg&usqp=CAU",Canal 5
-
-https://nxt.plus:8443/cablestream/uSgBFYRL78sA/59603
-
-
-
-
-
-#EXTINF:-1 tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Canal_de_las_Estrellas_2013.png/revision/latest?cb=20200305231311&path-prefix=es",LAS ESTRELLAS
-
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" ,Las Estrellas (1080p)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+#EXTINF:-1 ,Televisa Telenovelas
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 
+#EXTINF:-1 ,Cine Estrella (1080p)
+https://apollo.production-public.tubi.io/live/ac-cine-estrella.m3u8
 
 
-#EXTINF:-1 tvg-id="I489.16288.schedulesdirect.org" tvg-name="de película" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png",De Película
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" ,ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312786
 
+#EXTINF:-1 tvg-id="MultimediosBajio.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" ,Multimedios Bajío (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 
 
+#EXTINF:-1 tvg-id="MultimediosCiudadJuarez.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" ,Multimedios Ciudad Juárez (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 
 
-#EXTINF:-1 tvg-name="BANDAMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKEZ4mUUt-QeCVTrNLfFC1RNsYm2BMwTlKVPAy9uZsOkAf6__4X0PO5jSk&s=10",Bandamax
+#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" ,Multimedios Guadalajara (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 
-http://181.78.105.146:8800/play/a08h
 
+#EXTINF:-1 tvg-id="MultimediosLaguna.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" ,Multimedios Laguna (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="teleritmo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png",Teleritmo
+#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" ,Multimedios Monterrey (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
+#EXTINF:-1 tvg-id="MultimediosPuebla.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" ,Multimedios Puebla (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 
 
+#EXTINF:-1 tvg-id="MultimediosSaltillo.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" ,Multimedios Saltillo (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
 
+#EXTINF:-1 ,Mundo Series
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
 
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" ,MyTime Movie Network Mexico (720p)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 ,NBCU Telemundo Texas
+https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" ,Novelisima
+https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
 
+#EXTINF:-1 tvg-id="SwerveSports.us" tvg-logo="https://i.imgur.com/GT0Yi2T.png" ,Swerve Combat
+https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" ,Teleritmo (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 ,Run Tim Latino
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
+#EXTINF:-1 ,Run Tim Films
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 ,Run Tim Espanyol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+#EXTINF:-1 ,Run Tim Cine y Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+#EXTINF:-1 ,Run Time English
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2648
+#EXTINF:-1 ,Run Time France
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
+#EXTINF:-1 ,Run Time Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+#EXTINF:-1 ,Run Time Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+#EXTINF:-1 ,Run Tim Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
+#EXTINF:-1 ,Run Tim Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
+#EXTINF:-1 ,Run Tim Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+#EXTINF:-1 ,Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+#EXTINF:-1 ,Canela Network
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
+#EXTINF:-1 ,Canela Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
+#EXTINF:-1 ,Canela Novelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:-1 ,Canela Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 ,Canela Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+#EXTINF:-1 ,Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1 ,Canela Music
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+#EXTINF:-1 ,Canela Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:-1 ,ITV DEPORTES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+#EXTINF:-1 ,Combate Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 ,Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+#EXTINF:-1 ,Novelas Turcas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+#EXTINF:-1 ,Azteca Corazón
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+#EXTINF:-1 ,Clic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+#EXTINF:-1 ,Acción Mexicana
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+
+
+#EXTINF:-1 ,Azteca Internacional
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
+#EXTINF:-1 ,AZTECA UNO -1 hora
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
+#EXTINF:-1 ,Canela Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
+#EXTINF:-1 ,Canela Horror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
+#EXTINF:-1 ,Cine en Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5281
+#EXTINF:-1 ,Cine Picante
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
+#EXTINF:-1 ,Cine Romántico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 ,Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5400
+#EXTINF:-1 ,Clic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
+#EXTINF:-1 ,CONCIERTOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
+#EXTINF:-1 ,Corazón
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
+
+
+
+#EXTINF:-1 ,Fight Network
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=778&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=606605549dbfca002d2ae877&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=606605549dbfca002d2ae877
+
+#EXTINF:-1 ,FLOW CARIBEÑO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
+#EXTINF:-1 ,Haz Clic!
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
+#EXTINF:-1 ,Hercai
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6286
+
+#EXTINF:-1 ",IMPACT Wrestling
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=776&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=606605549dbfca002d2ae873&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=606605549dbfca002d2ae873
+
+#EXTINF:-1 ,LIDOM
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6325
+#EXTINF:-1 ,LMB: AYM SPORTS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+#EXTINF:-1 ,MASL Non-Stop 24/7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4060
+#EXTINF:-1 ,Moonbug Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
+#EXTINF:-1 ,Motorvision TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=603fb593a99efc002dbf90e4&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=603fb593a99efc002dbf90e4
+
+
+#EXTINF:-1 ,Mundo Pequeño
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
+#EXTINF:-1 ,NEWORD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
+#EXTINF:-1 ,NHRA TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=732&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=60aeb5cd87f9b1002ce12323&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=60aeb5cd87f9b1002ce12323
+
+
+#EXTINF:-1 ,Planeta de Aventuras
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
+#EXTINF:-1 ,PURO ROMANCE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
+#EXTINF:-1 ,Qello Concerts by Stingray
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5fe27da28c198b002d179199&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5fe27da28c198b002d179199
+
+
+#EXTINF:-1 ,REGIONAL MX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
+#EXTINF:-1 ,RITMOS INOLVIDABLES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
+#EXTINF:-1 ,Stingray Naturescape
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=570&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5fc70607d783b6002d7a965e&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5fc70607d783b6002d7a965e
+
+#EXTINF:-1 ,TeleFórmula
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
+#EXTINF:-1 ,The Weather Channel En Español
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2690
+#EXTINF:-1 ,Todo Cine
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
+#EXTINF:-1 ,True Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
+#EXTINF:-1 ,TU POP FAVORITO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
+#EXTINF:-1 ,Zona de Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 
 
 
