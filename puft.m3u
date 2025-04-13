@@ -4,19 +4,58 @@
 #EXTINF:-1 group-title="Religion" tvg-logo="https://i.imgur.com/If6rCuD.png" ,3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 
+
+#INFANTIL
+#EXTINF:-1 group-title="Infantil" tvg-logo="No logo" ,Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+
+
+
+
 #NOVELAS
+#EXTINF:-1 group-title="Novelas" tvg-logo="No logo" ,Corazón
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
+
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HWHve49nrZcVjmg_Y-OI-Nx_oL46L-76qL91INvMjBDlA5nvuyG41oMk&s=10" ,TELEMUNDO ROMANCE
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.imgur.com/Agtfbfi.png" ,13 Teleseries (720p)
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.imgur.com/Agtfbfi.png" ,13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
-#EXTINF:-1 group-title="NOVELAS " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2011611b497db73fa9dfc7954871225f.webp" ,Todo Novelas, más Pasiones
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2011611b497db73fa9dfc7954871225f.webp" ,Todo Novelas, más Pasiones
 https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.imgur.com/yijitpa.png" ,Sony Canal Novelas
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="No logo" ,Azteca Corazón
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="No logo" ,Canela Novelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="No logo" ,Novelas Turcas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="No logo" ,Televisa Telenovelas
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
 
 
 
 #VARIADO
+#EXTINF:-1 group-title="Variado" tvg-logo="No logo" ,Azteca Internacional
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
+
+#EXTINF:-1 group-title="Variado" tvg-logo="No logo" ,AZTECA UNO -1 hora
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
+
+#EXTINF:-1 group-title="Variado" tvg-logo="https://i.imgur.com/A1xzjOI.png" ,DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 group-title="Variado" tvg-logo="No logo" ,Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+
 #EXTINF:-1 group-title="VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/196b71be31a34959e939147b7821a24c.webp" ,Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
@@ -91,32 +130,35 @@ https://apollo.production-public.tubi.io/live/ac-cine-estrella.m3u8
 #EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" ,Mundo Series 
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
 
-
-
-
-#RUMTINE
-#EXTINF:-1 group-title="RUMTINE" tvg-logo="No logo" ,Run Tim Latino 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" ,Run Tim Latino 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
 
-#EXTINF:-1 group-title="RUMTINE" tvg-logo="No logo" ,Run Time Terror 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" ,Run Time Terror 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 
-#EXTINF:-1 group-title="RUMTINE" tvg-logo="No logo" ,Run Time Familia 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" ,Run Time Familia 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
 
-#EXTINF:-1 group-title="RUMTINE" tvg-logo="No logo" ,Run Tim Crimen 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" ,Run Tim Crimen 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 
-#EXTINF:-1 group-title="RUMTINE" tvg-logo="No logo" ,Run Tim Comedia 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" ,Run Tim Comedia 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 
-#EXTINF:-1 group-title="RUMTINE" tvg-logo="No logo" ,Run Tim Acción 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" ,Run Tim Acción 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" ,Canela Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" ,Canela Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" ,Cine Romántico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
-
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" ,Todo Cine
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
 
 
@@ -131,8 +173,26 @@ https://amg01024-olympusat-flash-ono-ad-3q.amagi.tv/playlist/amg01024-olympusat-
 
 
 
+#ENTRETENIMIENTO
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="No logo" ,Clic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="No logo" ,TeleFórmula
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
+
+
+
 
 #DEPORTES
+#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" ,LMB: AYM SPORTS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/Dut8Ftk.png" ,Sony Canal Competencias
+https://spt-competencias-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iili.io/J1kV1Bn.png" ,ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
 #EXTINF:-1 group-title="DEPORTES " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c871bb969e8076f811e7f7522ba7e545.webp" ,Real Madrid 
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
