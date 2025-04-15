@@ -35,6 +35,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 group-title="Novelas" tvg-logo="No logo" ,Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
 
+#EXTINF:-1 group-title="Novelas" tvg-logo="No logo" , TELEMUNDO
+http://clubtv.link/120425ab/phpcode/lista0.php?c=7&token=Tecnoplus11&f=.m3u8
+
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HWHve49nrZcVjmg_Y-OI-Nx_oL46L-76qL91INvMjBDlA5nvuyG41oMk&s=10" ,TELEMUNDO ROMANCE
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
