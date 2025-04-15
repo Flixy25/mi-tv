@@ -335,6 +335,33 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 group-title="DEPORTES " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2ecbfa8a3f25cc1212dbcd975383b55a.webp" ,Azteca Deportes
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
+#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" , ESPN 1 MX 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=41&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" , ESPN 2 MX 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=40&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" , ESPN 3 MX 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=39&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" , FOX SPORTS 3 MX 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=28&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" , ESPN SUR 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=77&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" , ESPN 2 SUR 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=79&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" , fox sports 2 mx 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=29&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" , Tigo Sport 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=62&token=Tecnoplus11&f=.m3u8
+
+
+
+
 
 
 
