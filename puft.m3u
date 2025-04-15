@@ -1,46 +1,46 @@
 #EXTM3U
 
 #Religion
-#EXTINF:-1 group-title="Religion" tvg-logo="https://i.imgur.com/If6rCuD.png" ,3ABN Latino
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/TwNTgdDr/bgJQIyW.png" ,3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Religion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Enlace_Televisi%C3%B3n_logo.svg" ,ENLACE 
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/pr8RnZ69/i8mgI5S.png" ,ENLACE 
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
 
-#EXTINF:-1 group-title="Religion" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69106ca7b0cf264cfa244575f74b451b.webp" ,EXTREMA TV
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/C19L9Mxw/Z1QVkqu.png" ,EXTREMA TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="Religion" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b76700d635ef6272ba8cc8e9c7733f59.webp" ,ABN
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/65mzSDdY/8OeI3Bk.png" ,ABN
 https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Religion" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/993729345b0b0258453df34b34cec2ae.webp" ,ASOMAVISION
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/L8jfT7vq/a5avk5R.png" ,ASOMAVISION
 https://asomatv.duckdns.org/livestream/stream.m3u8
 
-#EXTINF:-1 group-title="Religion" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9df45c21ce1d67a2800b19969c8c80cc.webp" ,CIELO
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/XJPp3cQS/tWUy3yx.png" ,CIELO
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 
-#EXTINF:-1 group-title="Religion" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/19b1a2b9cf99084c8aa02329621840dd.webp" ,CANAL 27
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/02R7wP0g/eA4vt8A.png" ,CANAL 27
 https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
 
 
 
 #INFANTIL
-#EXTINF:-1 group-title="Infantil" tvg-logo="No logo" ,Canela Kids
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/tJ2ypXX1/descarga.png" ,Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
-#EXTINF:-1 group-title="Infantil" tvg-logo="No logo" , DISNEY CHANNEL 
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/3Jdzdj1f/Disney-channel-2019.png" , DISNEY CHANNEL 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=44&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-logo="No logo" , DISCOVERY KIDS 
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/sXL98WW1/C0VEHXU.png" , DISCOVERY KIDS 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=45&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-logo="No logo" , CARTOON NETWORK 
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/nV705ddJ/Cartoon-Network-2010-logo-svg.png" , CARTOON NETWORK 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=51&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-logo="No logo" , NICK JR 
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/rwY1zWhj/Nick-Jr-logo-2009-svg.png" , NICK JR 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=13&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-logo="No logo" , DISNEY JR 
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/J7PG18Yc/Disney-Jr-2024-svg.png" , DISNEY JR 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=43&token=Tecnoplus11&f=.m3u8
 
 
