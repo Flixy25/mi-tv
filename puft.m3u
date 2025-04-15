@@ -101,6 +101,8 @@ https://g1.proy-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Pla
 #EXTINF:-1 group-title="VARIADO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYeBa8IBs_n0o-6-WrwJL2To6b9mM09k7Jw&s" , Caracol 
 https://b6dcywv273fzrtm8.cdnlikely.net:8443/hls/zvvrr2ablml.m3u8?s=oeamW94-NwCV0tV2dlIycQ&e=1744616111
 
+#EXTINF:-1 group-title="Variado" tvg-logo="No logo" , RCN
+http://clubtv.link/120425ab/phpcode/lista0.php?c=71&token=Tecnoplus11&f=.m3u8
 
 
 
