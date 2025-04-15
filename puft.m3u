@@ -118,6 +118,18 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 group-title="Películas y series" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f133133e-92a3-4bc0-b626-21f029d0b152/FreeTVAccion_Circle_1500x1000_-_Ralph_Campillo.png" ,Free tv acción 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-accion-latam/ecf06bf2-cbe5-4caa-a6df-491b596ed6e6/4.m3u8
 
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , UNIVERSAL CRIME 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=32&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , UNIVERSAL CINEMA 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=36&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , UNIVERSAL PREMIER 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=31&token=Tecnoplus11&f=.m3u8
+
+
+
 #EXTINF:-1 group-title="Películas y series" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/e/s/estelar.png" ,Free tv estelar 
 https://d35j504https://amg01024-olympusat-tucineusfreetv-ono-ad-0j.amagi.tv/playlist/amg01024-olympusat-tucineusfreetv-ono/playlist.m3u8?url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YNN&coppa=0&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=977a904d1756ff3e0cfc639b6b6dcfe0&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0&content_custom_1_param=internal&ic=IAB-1&custom_6=2646&paln=APP_nonce&wta=API_wta&ads.url=freetv.com&ads.genre=Originales%20de%20FreeTV&ads.us_privacy=1YNN&ads.coppa=0&ads.app_bundle=com.olympusat.FreeTV&ads.app_name=FreeTV&ads.app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&ads.did=977a904d1756ff3e0cfc639b6b6dcfe0&ads.dnt=0&ads.is_lat=0&ads.ic=IAB-1
 
