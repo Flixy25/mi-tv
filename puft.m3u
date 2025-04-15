@@ -59,29 +59,26 @@ http://clubtv.link/120425ab/phpcode/lista0.php?c=7&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.postimg.cc/JzmJvcpY/DVASpQj.png" ,TELEMUNDO ROMANCE
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.imgur.com/Agtfbfi.png" ,13 Teleseries
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.postimg.cc/0jRrmP3X/Agtfbfi.png" ,13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2011611b497db73fa9dfc7954871225f.webp" ,Todo Novelas, más Pasiones
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.postimg.cc/kG1Zzgmf/VGnbWjO.png" ,Todo Novelas, más Pasiones
 https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8
 
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.imgur.com/yijitpa.png" ,Sony Canal Novelas
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.postimg.cc/Yq0TgY6V/images-1.jpg" ,Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="No logo" ,Azteca Corazón
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.postimg.cc/PxKFv5PT/images.png" ,Azteca Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="No logo" ,Canela Novelas
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.postimg.cc/SRvTV16P/images-2.jpg" ,Canela Novelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="No logo" ,Novelas Turcas
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.postimg.cc/J4sdtmmC/images-3.jpg" ,Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="No logo" ,Televisa Telenovelas
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.postimg.cc/x8cgkGw3/images-1.png" ,Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pasiones_Tv_logo.svg" ,PASIONES
-https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8
 
 
 
@@ -228,31 +225,31 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 #EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , UNIVERSAL CHANNEL 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=38&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , HBO PLUS 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/2jsXqM5q/Logohboplus2019-svg.png" , HBO PLUS 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=21&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , HBO 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/SQ2vxkmF/HBO-logo-svg.png" , HBO 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=24&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , HBO FAMILY 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/Wb0Y08D5/HBO-Family-Asia-logo-svg.png" , HBO FAMILY 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=22&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , HBO SIGNATURE 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/YCknRFYM/HBO-Signature-svg.png" , HBO SIGNATURE 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=20&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , HBO XTREME 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/13HWjzr6/HBO-Xtreme-svg.png" , HBO XTREME 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=16&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , AXN 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/YSCXKwdP/AXN-logo-2015-svg.png" , AXN 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=55&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , SPACE 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/W4Y5sfK1/Space-Logo-svg.png" , SPACE 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=10&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , TNT 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/rmvgrRq6/TNT-Logo-2016-svg.png" , TNT 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=6&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , TNT SERIES 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/mDc8kyfN/TNT-Series-Logo-2016.png" , TNT SERIES 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=5&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , AMC 
@@ -279,7 +276,7 @@ http://clubtv.link/120425ab/phpcode/lista0.php?c=27&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , SONY 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=11&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , Hbo 2 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , HBO 2 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=23&token=Tecnoplus11&f=.m3u8
 
 
