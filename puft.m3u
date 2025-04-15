@@ -199,6 +199,67 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
 
 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , UNIVERSAL CHANNEL 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=38&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , HBO PLUS 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=21&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , HBO 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=24&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , HBO FAMILY 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=22&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , HBO SIGNATURE 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=20&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , HBO XTREME 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=16&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , AXN 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=55&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , SPACE 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=10&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , TNT 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=6&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , TNT SERIES 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=5&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , AMC 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=57&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , CINECANAL 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=50&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , CINEMAX 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=49&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , GOLDEN PLUS 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=26&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , GOLDEN PREMIER 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=25&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , PARAMOUNT CHANNEL 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=12&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , FX 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=27&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , SONY 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=11&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , Hbo 2 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=23&token=Tecnoplus11&f=.m3u8
+
+
+
+
+
 #MUSICA
 #EXTINF:-1 group-title="Misica" tvg-logo="https://i.imgur.com/232ndRK.png" ,Afrobeats (1080p)
 https://stream.ecable.tv/afrobeats/index.m3u8
