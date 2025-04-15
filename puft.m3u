@@ -28,6 +28,24 @@ https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="No logo" ,Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
+#EXTINF:-1 group-title="Infantil" tvg-logo="No logo" , DISNEY CHANNEL 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=44&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="No logo" , DISCOVERY KIDS 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=45&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="No logo" , CARTOON NETWORK 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=51&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="No logo" , NICK JR 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=13&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="No logo" , DISNEY JR 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=43&token=Tecnoplus11&f=.m3u8
+
+
+
+
 
 
 
