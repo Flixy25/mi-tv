@@ -40,6 +40,10 @@ http://clubtv.link/120425ab/phpcode/lista0.php?c=51&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/rwY1zWhj/Nick-Jr-logo-2009-svg.png" , NICK JR 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=13&token=Tecnoplus11&f=.m3u8
 
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/rwY1zWhj/Nick-Jr-logo-2009-svg.png" , NICK JR 2
+http://playtv44.com:8080/329891/123456/15585
+
+
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/J7PG18Yc/Disney-Jr-2024-svg.png" , DISNEY JR 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=43&token=Tecnoplus11&f=.m3u8
 
