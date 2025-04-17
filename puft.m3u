@@ -29,16 +29,21 @@ https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/3Jdzdj1f/Disney-channel-2019.png" , DISNEY CHANNEL 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=44&token=Tecnoplus11&f=.m3u8
+http://playtv44.com:8080/329891/123456/15580
 
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/sXL98WW1/C0VEHXU.png" , DISCOVERY KIDS 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=45&token=Tecnoplus11&f=.m3u8
+http://playtv44.com:8080/329891/123456/31565
 
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/nV705ddJ/Cartoon-Network-2010-logo-svg.png" , CARTOON NETWORK 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=51&token=Tecnoplus11&f=.m3u8
+http://playtv44.com:8080/329891/123456/315884
 
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/rwY1zWhj/Nick-Jr-logo-2009-svg.png" , NICK JR 
 http://playtv44.com:8080/329891/123456/15585
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/rwY1zWhj/Nick-Jr-logo-2009-svg.png" , cartoonito 
+http://playtv44.com:8080/329891/123456/315885
+
+
 
 
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/J7PG18Yc/Disney-Jr-2024-svg.png" , DISNEY JR 
@@ -224,7 +229,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
 
 #EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , UNIVERSAL CHANNEL 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=38&token=Tecnoplus11&f=.m3u8
+http://playtv44.com:8080/329891/123456/12347
 
 #EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/2jsXqM5q/Logohboplus2019-svg.png" , HBO PLUS 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=21&token=Tecnoplus11&f=.m3u8
