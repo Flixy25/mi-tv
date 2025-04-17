@@ -38,9 +38,6 @@ http://clubtv.link/120425ab/phpcode/lista0.php?c=45&token=Tecnoplus11&f=.m3u8
 http://clubtv.link/120425ab/phpcode/lista0.php?c=51&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/rwY1zWhj/Nick-Jr-logo-2009-svg.png" , NICK JR 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=13&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/rwY1zWhj/Nick-Jr-logo-2009-svg.png" , NICK JR 2
 http://playtv44.com:8080/329891/123456/15585
 
 
@@ -251,7 +248,7 @@ http://clubtv.link/120425ab/phpcode/lista0.php?c=55&token=Tecnoplus11&f=.m3u8
 http://clubtv.link/120425ab/phpcode/lista0.php?c=10&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/rmvgrRq6/TNT-Logo-2016-svg.png" , TNT 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=6&token=Tecnoplus11&f=.m3u8
+http://playtv44.com:8080/329891/123456/78398
 
 #EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/mDc8kyfN/TNT-Series-Logo-2016.png" , TNT SERIES 
 http://clubtv.link/120425ab/phpcode/lista0.php?c=5&token=Tecnoplus11&f=.m3u8
