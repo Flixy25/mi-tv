@@ -377,6 +377,18 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
 
+#DOCUMENTALES
+#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="No logo" , DISCOVERY CHANNEL 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=47&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="No logo" , HISTORY CHANNEL 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=19&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="No logo" , NATGEO 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=15&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="No logo" , DISCOVERY ID 
+http://clubtv.link/120425ab/phpcode/lista0.php?c=18&token=Tecnoplus11&f=.m3u8
 
 
 
