@@ -136,7 +136,7 @@ http://clubtv.link/120425ab/phpcode/lista0.php?c=71&token=Tecnoplus11&f=.m3u8
 
 
 
-#cine
+#PELICULAS Y SERIES 
 #EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/geVZYUA.png" ,Afortunadas TV (720p)
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
 
@@ -297,6 +297,23 @@ http://clubtv.link/ab1704/phpcode/lista0.php?c=2&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 group-title="Cine" tvg-logo="", SONY
 http://clubtv.link/ab1704/phpcode/lista0.php?c=11&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", STUDIO UNIVERSAL
+http://clubtv.link/ab1704/phpcode/lista0.php?c=70&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", TCM
+http://clubtv.link/ab1704/phpcode/lista0.php?c=73&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", CLARO CINEMA
+http://clubtv.link/ab1704/phpcode/lista0.php?c=83&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", CINE LATINO
+http://clubtv.link/ab1704/phpcode/lista0.php?c=84&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", CINE DINAMITA
+http://clubtv.link/ab1704/phpcode/lista0.php?c=85&token=Tecnoplus11&f=.m3u8
+
+
 
 
 
