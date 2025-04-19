@@ -136,7 +136,7 @@ http://clubtv.link/120425ab/phpcode/lista0.php?c=71&token=Tecnoplus11&f=.m3u8
 
 
 
-#Películas y series
+#cine
 #EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/geVZYUA.png" ,Afortunadas TV (720p)
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
 
@@ -151,11 +151,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , UNIVERSAL CINEMA 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=36&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , UNIVERSAL PREMIER 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=31&token=Tecnoplus11&f=.m3u8
 
 
 
@@ -227,63 +222,81 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
 
 
+#CINE
+#EXTINF:-1 group-title="Cine" tvg-logo="", UNIVERSAL CRIME
+http://clubtv.link/ab1704/phpcode/lista0.php?c=32&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , UNIVERSAL CHANNEL 
-http://playtv44.com:8080/329891/123456/12347
+#EXTINF:-1 group-title="Cine" tvg-logo="", UNIVERSAL CINEMA
+http://clubtv.link/ab1704/phpcode/lista0.php?c=36&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/2jsXqM5q/Logohboplus2019-svg.png" , HBO PLUS 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=21&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", UNIVERSAL PREMIER
+http://clubtv.link/ab1704/phpcode/lista0.php?c=31&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/SQ2vxkmF/HBO-logo-svg.png" , HBO 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=24&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", UNIVERSAL REALITY
+http://clubtv.link/ab1704/phpcode/lista0.php?c=35&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/Wb0Y08D5/HBO-Family-Asia-logo-svg.png" , HBO FAMILY 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=22&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", UNIVERSAL CHANNEL
+http://clubtv.link/ab1704/phpcode/lista0.php?c=38&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/YCknRFYM/HBO-Signature-svg.png" , HBO SIGNATURE 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=20&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", HBO PLUS
+http://clubtv.link/ab1704/phpcode/lista0.php?c=21&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/13HWjzr6/HBO-Xtreme-svg.png" , HBO XTREME 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=16&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", HBO
+http://clubtv.link/ab1704/phpcode/lista0.php?c=24&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/YSCXKwdP/AXN-logo-2015-svg.png" , AXN 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=55&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", HBO 2
+http://clubtv.link/ab1704/phpcode/lista0.php?c=23&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/W4Y5sfK1/Space-Logo-svg.png" , SPACE 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=10&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", HBO FAMILY
+http://clubtv.link/ab1704/phpcode/lista0.php?c=22&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/rmvgrRq6/TNT-Logo-2016-svg.png" , TNT 
-http://playtv44.com:8080/329891/123456/78398
+#EXTINF:-1 group-title="Cine" tvg-logo="", HBO SIGNATURE
+http://clubtv.link/ab1704/phpcode/lista0.php?c=20&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.postimg.cc/mDc8kyfN/TNT-Series-Logo-2016.png" , TNT SERIES 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=5&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", HBO XTREME
+http://clubtv.link/ab1704/phpcode/lista0.php?c=16&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , AMC 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=57&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", AXN
+http://clubtv.link/ab1704/phpcode/lista0.php?c=55&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , CINECANAL 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=50&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", SPACE
+http://clubtv.link/ab1704/phpcode/lista0.php?c=10&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , CINEMAX 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=49&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", TNT
+http://clubtv.link/ab1704/phpcode/lista0.php?c=6&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , GOLDEN PLUS 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=26&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", TNT SERIES
+http://clubtv.link/ab1704/phpcode/lista0.php?c=5&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , GOLDEN PREMIER 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=25&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", AMC
+http://clubtv.link/ab1704/phpcode/lista0.php?c=57&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , PARAMOUNT CHANNEL 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=12&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", CINECANAL
+http://clubtv.link/ab1704/phpcode/lista0.php?c=50&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , FX 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=27&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", CINEMAX
+http://clubtv.link/ab1704/phpcode/lista0.php?c=49&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , SONY 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=11&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", GOLDEN PLUS
+http://clubtv.link/ab1704/phpcode/lista0.php?c=26&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Películas y series" tvg-logo="No logo" , HBO 2 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=23&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", GOLDEN PREMIER
+http://clubtv.link/ab1704/phpcode/lista0.php?c=25&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", Az Cinema
+http://clubtv.link/ab1704/phpcode/lista0.php?c=89&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", SYFY
+http://clubtv.link/ab1704/phpcode/lista0.php?c=9&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", FX
+http://clubtv.link/ab1704/phpcode/lista0.php?c=27&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", WARNER
+http://clubtv.link/ab1704/phpcode/lista0.php?c=2&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", SONY
+http://clubtv.link/ab1704/phpcode/lista0.php?c=11&token=Tecnoplus11&f=.m3u8
 
 
 
