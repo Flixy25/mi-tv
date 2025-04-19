@@ -339,44 +339,102 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
 
 #DEPORTES
-#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" ,LMB: AYM SPORTS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 1 MX
+http://clubtv.link/ab1704/phpcode/lista0.php?c=41&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/Dut8Ftk.png" ,Sony Canal Competencias
-https://spt-competencias-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 2 MX
+http://clubtv.link/ab1704/phpcode/lista0.php?c=40&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iili.io/J1kV1Bn.png" ,ITV Deportes
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 3 MX
+http://clubtv.link/ab1704/phpcode/lista0.php?c=39&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c871bb969e8076f811e7f7522ba7e545.webp" ,Real Madrid 
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", FOX SPORTS 1 MX
+http://clubtv.link/ab1704/phpcode/lista0.php?c=30&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="DEPORTES " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2ecbfa8a3f25cc1212dbcd975383b55a.webp" ,Azteca Deportes
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", FOX SPORTS 3 MX
+http://clubtv.link/ab1704/phpcode/lista0.php?c=28&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" , ESPN 1 MX 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=41&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", TDN
+http://clubtv.link/ab1704/phpcode/lista0.php?c=8&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" , ESPN 2 MX 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=40&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", UDN
+http://clubtv.link/ab1704/phpcode/lista0.php?c=4&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" , ESPN 3 MX 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=39&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", AFIZZIONADOS
+http://clubtv.link/ab1704/phpcode/lista0.php?c=72&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" , FOX SPORTS 3 MX 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=28&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", WWE NETWORK
+http://clubtv.link/ab1704/phpcode/lista0.php?c=65&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" , ESPN SUR 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=77&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", WIN SPORTS +
+http://clubtv.link/ab1704/phpcode/lista0.php?c=66&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" , ESPN 2 SUR 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=79&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", WIN SPORTS
+http://clubtv.link/ab1704/phpcode/lista0.php?c=67&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" , fox sports 2 mx 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=29&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", NBA TV
+http://clubtv.link/ab1704/phpcode/lista0.php?c=74&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="No logo" , Tigo Sport 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=62&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", GOLTV
+http://clubtv.link/ab1704/phpcode/lista0.php?c=76&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="", LA LIGA
+http://clubtv.link/ab1704/phpcode/lista0.php?c=75&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="", FORMULA 1
+http://clubtv.link/ab1704/phpcode/lista0.php?c=81&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN SUR
+http://clubtv.link/ab1704/phpcode/lista0.php?c=77&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 2 SUR
+http://clubtv.link/ab1704/phpcode/lista0.php?c=79&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 3 SUR
+http://clubtv.link/ab1704/phpcode/lista0.php?c=78&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="", CLARO SPORTS
+http://clubtv.link/ab1704/phpcode/lista0.php?c=82&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="", fox sports 2 mx
+http://clubtv.link/ab1704/phpcode/lista0.php?c=29&token=Tecnoplus11&f=.m3u8
+
+
+
+
+
+
+
+
+#DOCUMENTALES
+#EXTINF:-1 group-title="Documentales" tvg-logo="", DISCOVERY CHANNEL
+http://clubtv.link/ab1704/phpcode/lista0.php?c=47&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="", DISCOVERY TURBO
+http://clubtv.link/ab1704/phpcode/lista0.php?c=80&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="", HISTORY CHANNEL
+http://clubtv.link/ab1704/phpcode/lista0.php?c=19&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="", NATGEO
+http://clubtv.link/ab1704/phpcode/lista0.php?c=15&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="", DISCOVERY ID
+http://clubtv.link/ab1704/phpcode/lista0.php?c=18&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="", DISCOVERY H&H
+http://clubtv.link/ab1704/phpcode/lista0.php?c=46&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="", PARAMOUNT CHANNEL
+http://clubtv.link/ab1704/phpcode/lista0.php?c=12&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="", ANIMAL PLANET
+http://clubtv.link/ab1704/phpcode/lista0.php?c=56&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="", A&E
+http://clubtv.link/ab1704/phpcode/lista0.php?c=58&token=Tecnoplus11&f=.m3u8
+
+
 
 
 
