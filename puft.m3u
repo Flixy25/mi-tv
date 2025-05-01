@@ -25,20 +25,26 @@ https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
 
 
 #INFANTIL
-#EXTINF:-1 group-title="Infantil" tvg-logo="", Discovery Kids
-http://clubtv.link/may0105/phpcode/lista1.php?c=a06p&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="", Boomerang
+http://clubtv.link/may0105/phpcode/lista0.php?c=53&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-logo="", Disney Channel
-http://clubtv.link/may0105/phpcode/lista1.php?c=a08d&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="", DISNEY CHANNEL
+http://clubtv.link/may0105/phpcode/lista0.php?c=44&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-logo="", Disney
-http://clubtv.link/may0105/phpcode/lista1.php?c=a043&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="", DISCOVERY KIDS
+http://clubtv.link/may0105/phpcode/lista0.php?c=45&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-logo="", Disney Junior
-http://clubtv.link/may0105/phpcode/lista1.php?c=a05g&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="", CARTOON NETWORK
+http://clubtv.link/may0105/phpcode/lista0.php?c=51&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-logo="", DISNEY YUNIOR
-http://clubtv.link/may0105/phpcode/lista1.php?c=a08r&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="", TOONCAST
+http://clubtv.link/may0105/phpcode/lista0.php?c=14&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="", NICK  JR
+http://clubtv.link/may0105/phpcode/lista0.php?c=13&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="", DISNEY JR
+http://clubtv.link/may0105/phpcode/lista0.php?c=43&token=Tecnoplus11&f=.m3u8
 
 
 
@@ -74,20 +80,28 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 group-title="Novelas" tvg-logo="https://i.postimg.cc/x8cgkGw3/images-1.png" ,Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Novelas" tvg-logo="", Las Estrellas
-http://clubtv.link/may0105/phpcode/lista1.php?c=a08k&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Novelas" tvg-logo="", Love Nature
-http://clubtv.link/may0105/phpcode/lista1.php?c=a08u&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Novelas" tvg-logo="", Sun Channel
-http://clubtv.link/may0105/phpcode/lista1.php?c=a077&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Novelas" tvg-logo="", Az Corazon
+http://clubtv.link/may0105/phpcode/lista0.php?c=88&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Novelas" tvg-logo="", TELEPACIFICO
-http://clubtv.link/may0105/phpcode/lista1.php?c=a081&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Novelas" tvg-logo="", AZTECA UNO
+http://clubtv.link/may0105/phpcode/lista0.php?c=1&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Novelas" tvg-logo="", Telenovelas
-http://clubtv.link/may0105/phpcode/lista1.php?c=a08i&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Novelas" tvg-logo="", AZTECA 7
+http://clubtv.link/may0105/phpcode/lista0.php?c=54&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Novelas" tvg-logo="", CANAL 5
+http://clubtv.link/may0105/phpcode/lista0.php?c=52&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Novelas" tvg-logo="", TELEMUNDO
+http://clubtv.link/may0105/phpcode/lista0.php?c=7&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Novelas" tvg-logo="", TLNOVELAS
+http://clubtv.link/may0105/phpcode/lista0.php?c=69&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Novelas" tvg-logo="", LIFE TIME
+http://clubtv.link/may0105/phpcode/lista0.php?c=33&token=Tecnoplus11&f=.m3u8
 
 
 
@@ -124,17 +138,18 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 group-title="Variado" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1f29eff9853a4379150d8cf675e86def.webp" ,Canal 10
 https://g1.proy-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 group-title="Variado" tvg-logo="", El Gourmet
-http://clubtv.link/may0105/phpcode/lista1.php?c=a08n&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Variado" tvg-logo="", CANAL 1
-http://clubtv.link/may0105/phpcode/lista1.php?c=a08m&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Variado" tvg-logo="", CARACOL
-http://clubtv.link/may0105/phpcode/lista1.php?c=a07f&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 group-title="Variado" tvg-logo="", RCN
-http://clubtv.link/may0105/phpcode/lista1.php?c=a086&token=Tecnoplus11&f=.m3u8
+http://clubtv.link/may0105/phpcode/lista0.php?c=71&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Variado" tvg-logo="", CARACOL
+http://clubtv.link/may0105/phpcode/lista0.php?c=86&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Variado" tvg-logo="", AZ MUNDO
+http://clubtv.link/may0105/phpcode/lista0.php?c=87&token=Tecnoplus11&f=.m3u8
+
+
 
 
 
@@ -359,35 +374,65 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
 
 #DEPORTES
-#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 2
-http://clubtv.link/may0105/phpcode/lista1.php?c=a02f&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 1 MX
+http://clubtv.link/may0105/phpcode/lista0.php?c=41&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 3
-http://clubtv.link/may0105/phpcode/lista1.php?c=a040&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 2 MX
+http://clubtv.link/may0105/phpcode/lista0.php?c=40&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 4
-http://clubtv.link/may0105/phpcode/lista1.php?c=a02n&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 3 MX
+http://clubtv.link/may0105/phpcode/lista0.php?c=39&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN EXTRA
-http://clubtv.link/may0105/phpcode/lista1.php?c=a07s&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", FOX SPORTS 1 MX
+http://clubtv.link/may0105/phpcode/lista0.php?c=30&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 1
-http://clubtv.link/may0105/phpcode/lista1.php?c=a096&token=Tecnoplus11&f=. m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", FOX SPORTS 3 MX
+http://clubtv.link/may0105/phpcode/lista0.php?c=28&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", FOX Sports 2
-http://clubtv.link/may0105/phpcode/lista1.php?c=a02o&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", TDN
+http://clubtv.link/may0105/phpcode/lista0.php?c=8&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", Fox Sports 1
-http://clubtv.link/may0105/phpcode/lista1.php?c=a07i&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", UDN
+http://clubtv.link/may0105/phpcode/lista0.php?c=4&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", Fox Sports 3
-http://clubtv.link/may0105/phpcode/lista1.php?c=a024&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", AFIZZIONADOS
+http://clubtv.link/may0105/phpcode/lista0.php?c=72&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", Win Sports
-http://clubtv.link/may0105/phpcode/lista1.php?c=a02g&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", WWE NETWORK
+http://clubtv.link/may0105/phpcode/lista0.php?c=65&token=Tecnoplus11&f=.m3u8
 
+#EXTINF:-1 group-title="Deportes" tvg-logo="", WIN SPORTS +
+http://clubtv.link/may0105/phpcode/lista0.php?c=66&token=Tecnoplus11&f=.m3u8
 
+#EXTINF:-1 group-title="Deportes" tvg-logo="", WIN SPORTS
+http://clubtv.link/may0105/phpcode/lista0.php?c=67&token=Tecnoplus11&f=.m3u8
 
+#EXTINF:-1 group-title="Deportes" tvg-logo="", NBA TV
+http://clubtv.link/may0105/phpcode/lista0.php?c=74&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="", GOLTV
+http://clubtv.link/may0105/phpcode/lista0.php?c=76&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="", LA LIGA
+http://clubtv.link/may0105/phpcode/lista0.php?c=75&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="", FORMULA 1
+http://clubtv.link/may0105/phpcode/lista0.php?c=81&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN SUR
+http://clubtv.link/may0105/phpcode/lista0.php?c=77&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 2 SUR
+http://clubtv.link/may0105/phpcode/lista0.php?c=79&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 3 SUR
+http://clubtv.link/may0105/phpcode/lista0.php?c=78&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="", CLARO SPORTS
+http://clubtv.link/may0105/phpcode/lista0.php?c=82&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes", Tigo Sport
+http://clubtv.link/may0105/phpcode/lista0.php?c=62&token=Tecnoplus11&f=.m3u8
 
 
 
@@ -395,41 +440,38 @@ http://clubtv.link/may0105/phpcode/lista1.php?c=a02g&token=Tecnoplus11&f=.m3u8
 
 
 #DOCUMENTALES
-#EXTINF:-1 group-title="Documentales" tvg-logo="", Nat Geo
-http://clubtv.link/may0105/phpcode/lista1.php?c=a045&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-logo="", UNIVERSO
+http://clubtv.link/may0105/phpcode/lista0.php?c=68&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="", History 2
-http://clubtv.link/may0105/phpcode/lista1.php?c=a04j&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-logo="", DISCOVERY CHANNEL
+http://clubtv.link/may0105/phpcode/lista0.php?c=47&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="", History Channel
-http://clubtv.link/may0105/phpcode/lista1.php?c=a02a&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-logo="", DISCOVERY TURBO
+http://clubtv.link/may0105/phpcode/lista0.php?c=80&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="", ID
-http://clubtv.link/may0105/phpcode/lista1.php?c=a06o&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-logo="", HISTORY CHANNEL
+http://clubtv.link/may0105/phpcode/lista0.php?c=19&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="", Discovery Theater
-http://clubtv.link/may0105/phpcode/lista1.php?c=a06r&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-logo="", NATGEO
+http://clubtv.link/may0105/phpcode/lista0.php?c=15&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="", Discovery Turbo
-http://clubtv.link/may0105/phpcode/lista1.php?c=a08e&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-logo="", DISCOVERY ID
+http://clubtv.link/may0105/phpcode/lista0.php?c=18&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="", Discovery World
-http://clubtv.link/may0105/phpcode/lista1.php?c=a06s&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-logo="", DISCOVERY H&H
+http://clubtv.link/may0105/phpcode/lista0.php?c=46&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="", DISCOVERY
-http://clubtv.link/may0105/phpcode/lista1.php?c=a076&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="", DISCOVERY TURBO LISTA DE EMERGENCIA
-http://clubtv.link/may0105/phpcode/lista1.php?c=a09m&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-logo="", UNIVISION
+http://clubtv.link/may0105/phpcode/lista0.php?c=3&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 group-title="Documentales" tvg-logo="", ANIMAL PLANET
-http://clubtv.link/may0105/phpcode/lista1.php?c=a06t&token=Tecnoplus11&f=.m3u8
+http://clubtv.link/may0105/phpcode/lista0.php?c=56&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="", Discovery H&H
-http://clubtv.link/may0105/phpcode/lista1.php?c=a06q&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-logo="", A&E
+http://clubtv.link/may0105/phpcode/lista0.php?c=58&token=Tecnoplus11&f=.m3u8
 
-
-
+#EXTINF:-1 group-title="Documentales" tvg-logo="", WARNER
+http://clubtv.link/may0105/phpcode/lista0.php?c=2&token=Tecnoplus11&f=.m3u8
 
 
 
