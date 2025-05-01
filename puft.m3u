@@ -226,53 +226,96 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
 
 #CINE
-#EXTINF:-1 group-title="Cine" tvg-logo="", STAR CHANNEL
-http://clubtv.link/may0105/phpcode/lista1.php?c=a02l&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", UNIVERSAL CRIME
+http://clubtv.link/may0105/phpcode/lista0.php?c=32&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-logo="", Sony
-http://clubtv.link/may0105/phpcode/lista1.php?c=a02c&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", UNIVERSAL CINEMA
+http://clubtv.link/may0105/phpcode/lista0.php?c=36&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-logo="", Space
-http://clubtv.link/may0105/phpcode/lista1.php?c=a07y&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", UNIVERSAL PREMIER
+http://clubtv.link/may0105/phpcode/lista0.php?c=31&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-logo="", Studio Universal
-http://clubtv.link/may0105/phpcode/lista1.php?c=a094&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", Studio Universal
-http://clubtv.link/may0105/phpcode/lista1.php?c=a094&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", A&E
-http://clubtv.link/may0105/phpcode/lista1.php?c=a085&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", AMC
-http://clubtv.link/may0105/phpcode/lista1.php?c=a047&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", AXN
-http://clubtv.link/may0105/phpcode/lista1.php?c=a08q&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", AXN
-http://clubtv.link/may0105/phpcode/lista1.php?c=a08q&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", CINECANAL
-http://clubtv.link/may0105/phpcode/lista1.php?c=a046&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", DE PELICULAS
-http://clubtv.link/may0105/phpcode/lista1.php?c=a08f&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", FX
-http://clubtv.link/may0105/phpcode/lista1.php?c=a02q&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", Golden
-http://clubtv.link/may0105/phpcode/lista1.php?c=a04d&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", UNIVERSAL REALITY
+http://clubtv.link/may0105/phpcode/lista0.php?c=35&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 group-title="Cine" tvg-logo="", UNIVERSAL CHANNEL
-http://clubtv.link/may0105/phpcode/lista1.php?c=a02m&token=Tecnoplus11&f=.m3u8
+http://clubtv.link/may0105/phpcode/lista0.php?c=38&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", HBO PLUS
+http://clubtv.link/may0105/phpcode/lista0.php?c=21&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", HBO
+http://clubtv.link/may0105/phpcode/lista0.php?c=24&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", HBO 2
+http://clubtv.link/may0105/phpcode/lista0.php?c=23&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", HBO FAMILY
+http://clubtv.link/may0105/phpcode/lista0.php?c=22&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", HBO SIGNATURE
+http://clubtv.link/may0105/phpcode/lista0.php?c=20&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", HBO XTREME
+http://clubtv.link/may0105/phpcode/lista0.php?c=16&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", AXN
+http://clubtv.link/may0105/phpcode/lista0.php?c=55&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", SPACE
+http://clubtv.link/may0105/phpcode/lista0.php?c=10&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 group-title="Cine" tvg-logo="", TNT
-http://clubtv.link/may0105/phpcode/lista1.php?c=a07z&token=Tecnoplus11&f=.m3u8
+http://clubtv.link/may0105/phpcode/lista0.php?c=6&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-logo="", TNT Series
-http://clubtv.link/may0105/phpcode/lista1.php?c=a07x&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", TNT SERIES
+http://clubtv.link/may0105/phpcode/lista0.php?c=5&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", AMC
+http://clubtv.link/may0105/phpcode/lista0.php?c=57&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", CINECANAL
+http://clubtv.link/may0105/phpcode/lista0.php?c=50&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", CINEMAX
+http://clubtv.link/may0105/phpcode/lista0.php?c=49&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", GOLDEN PLUS
+http://clubtv.link/may0105/phpcode/lista0.php?c=26&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", GOLDEN PREMIER
+http://clubtv.link/may0105/phpcode/lista0.php?c=25&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", PARAMOUNT CHANNEL
+http://clubtv.link/may0105/phpcode/lista0.php?c=12&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", SYFY
+http://clubtv.link/may0105/phpcode/lista0.php?c=9&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", FX
+http://clubtv.link/may0105/phpcode/lista0.php?c=27&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", SONY
+http://clubtv.link/may0105/phpcode/lista0.php?c=11&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", STUDIO UNIVERSAL
+http://clubtv.link/may0105/phpcode/lista0.php?c=70&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", TCM
+http://clubtv.link/may0105/phpcode/lista0.php?c=73&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", CLARO CINEMA
+http://clubtv.link/may0105/phpcode/lista0.php?c=83&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", CINE LATINO
+http://clubtv.link/may0105/phpcode/lista0.php?c=84&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", CINE DINAMITA
+http://clubtv.link/may0105/phpcode/lista0.php?c=85&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", DE PELICULA
+http://clubtv.link/may0105/phpcode/lista0.php?c=48&token=Tecnoplus11&f=.m3u8
+
 
 
 
