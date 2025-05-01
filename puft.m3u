@@ -25,29 +25,20 @@ https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
 
 
 #INFANTIL
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/tJ2ypXX1/descarga.png" ,Canela Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1 group-title="Infantil" tvg-logo="", Discovery Kids
+http://clubtv.link/may0105/phpcode/lista1.php?c=a06p&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/3Jdzdj1f/Disney-channel-2019.png" , DISNEY CHANNEL 
-http://playtv44.com:8080/329891/123456/15580
+#EXTINF:-1 group-title="Infantil" tvg-logo="", Disney Channel
+http://clubtv.link/may0105/phpcode/lista1.php?c=a08d&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/sXL98WW1/C0VEHXU.png" , DISCOVERY KIDS 
-http://playtv44.com:8080/329891/123456/31565
+#EXTINF:-1 group-title="Infantil" tvg-logo="", Disney
+http://clubtv.link/may0105/phpcode/lista1.php?c=a043&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/nV705ddJ/Cartoon-Network-2010-logo-svg.png" , CARTOON NETWORK 
-http://playtv44.com:8080/329891/123456/315884
+#EXTINF:-1 group-title="Infantil" tvg-logo="", Disney Junior
+http://clubtv.link/may0105/phpcode/lista1.php?c=a05g&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/rwY1zWhj/Nick-Jr-logo-2009-svg.png" , NICK JR 
-http://playtv44.com:8080/329891/123456/15585
-
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/rwY1zWhj/Nick-Jr-logo-2009-svg.png" , cartoonito 
-http://playtv44.com:8080/329891/123456/315885
-
-
-
-
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.postimg.cc/J7PG18Yc/Disney-Jr-2024-svg.png" , DISNEY JR 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=43&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="", DISNEY YUNIOR
+http://clubtv.link/may0105/phpcode/lista1.php?c=a08r&token=Tecnoplus11&f=.m3u8
 
 
 
@@ -59,32 +50,44 @@ http://clubtv.link/120425ab/phpcode/lista0.php?c=43&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="Novelas" tvg-logo="https://i.postimg.cc/xjJKzdk5/KIpSdQC.png" ,Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
 
-#EXTINF:-1 group-title="Novelas" tvg-logo="https://i.postimg.cc/JzmJvcpY/DVASpQj.png" , TELEMUNDO
-http://clubtv.link/120425ab/phpcode/lista0.php?c=7&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.postimg.cc/JzmJvcpY/DVASpQj.png" ,TELEMUNDO ROMANCE
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://i.postimg.cc/JzmJvcpY/DVASpQj.png" ,TELEMUNDO ROMANCE
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.postimg.cc/0jRrmP3X/Agtfbfi.png" ,13 Teleseries
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://i.postimg.cc/0jRrmP3X/Agtfbfi.png" ,13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.postimg.cc/kG1Zzgmf/VGnbWjO.png" ,Todo Novelas, más Pasiones
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://i.postimg.cc/kG1Zzgmf/VGnbWjO.png" ,Todo Novelas, más Pasiones
 https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8
 
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.postimg.cc/Yq0TgY6V/images-1.jpg" ,Sony Canal Novelas
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://i.postimg.cc/Yq0TgY6V/images-1.jpg" ,Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.postimg.cc/PxKFv5PT/images.png" ,Azteca Corazón
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://i.postimg.cc/PxKFv5PT/images.png" ,Azteca Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.postimg.cc/SRvTV16P/images-2.jpg" ,Canela Novelas
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://i.postimg.cc/SRvTV16P/images-2.jpg" ,Canela Novelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.postimg.cc/J4sdtmmC/images-3.jpg" ,Novelas Turcas
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://i.postimg.cc/J4sdtmmC/images-3.jpg" ,Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://i.postimg.cc/x8cgkGw3/images-1.png" ,Televisa Telenovelas
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://i.postimg.cc/x8cgkGw3/images-1.png" ,Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Novelas" tvg-logo="", Las Estrellas
+http://clubtv.link/may0105/phpcode/lista1.php?c=a08k&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Novelas" tvg-logo="", Love Nature
+http://clubtv.link/may0105/phpcode/lista1.php?c=a08u&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Novelas" tvg-logo="", Sun Channel
+http://clubtv.link/may0105/phpcode/lista1.php?c=a077&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Novelas" tvg-logo="", TELEPACIFICO
+http://clubtv.link/may0105/phpcode/lista1.php?c=a081&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Novelas" tvg-logo="", Telenovelas
+http://clubtv.link/may0105/phpcode/lista1.php?c=a08i&token=Tecnoplus11&f=.m3u8
 
 
 
@@ -103,35 +106,35 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 group-title="Variado" tvg-logo="https://i.imgur.com/A1xzjOI.png" ,DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 group-title="Variado" tvg-logo="No logo" ,Canela TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
-
-#EXTINF:-1 group-title="VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/196b71be31a34959e939147b7821a24c.webp" ,Canal 21
+#EXTINF:-1 group-title="Variado" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/196b71be31a34959e939147b7821a24c.webp" ,Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
-#EXTINF:-1 group-title="VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/98c06158dfc63f09d5ee5d3c8da258f3.webp" ,Telemundo
+#EXTINF:-1 group-title="Variado" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/98c06158dfc63f09d5ee5d3c8da258f3.webp" ,Telemundo
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
-#EXTINF:-1 group-title="VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/70ef4b19ce0f5b973ff48dffd540d3d8.webp" ,Telemundo 51 Miami
+#EXTINF:-1 group-title="Variado" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/70ef4b19ce0f5b973ff48dffd540d3d8.webp" ,Telemundo 51 Miami
 https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/5a817dba-a6f1-4dac-9871-91e9e76e1762/2.m3u8
 
-#EXTINF:-1 group-title="VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/466deabbd42d619f75a9134701c3e39b.webp" ,Retro Plus
-https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d6bc2a5cfa1a5e35236c5b228879b35f.webp" ,Canal 12 El Salvador
+#EXTINF:-1 group-title="Variado" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d6bc2a5cfa1a5e35236c5b228879b35f.webp" ,Canal 12 El Salvador
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 group-title="VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d800ee1a28bbee6769de24c5c050c40c.webp" ,Canal Once 
+#EXTINF:-1 group-title="Variado" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d800ee1a28bbee6769de24c5c050c40c.webp" ,Canal Once 
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1f29eff9853a4379150d8cf675e86def.webp" ,Canal 10
+#EXTINF:-1 group-title="Variado" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1f29eff9853a4379150d8cf675e86def.webp" ,Canal 10
 https://g1.proy-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 
-#EXTINF:-1 group-title="VARIADO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYeBa8IBs_n0o-6-WrwJL2To6b9mM09k7Jw&s" , Caracol 
-https://b6dcywv273fzrtm8.cdnlikely.net:8443/hls/zvvrr2ablml.m3u8?s=oeamW94-NwCV0tV2dlIycQ&e=1744616111
+#EXTINF:-1 group-title="Variado" tvg-logo="", El Gourmet
+http://clubtv.link/may0105/phpcode/lista1.php?c=a08n&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Variado" tvg-logo="No logo" , RCN
-http://clubtv.link/120425ab/phpcode/lista0.php?c=71&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Variado" tvg-logo="", CANAL 1
+http://clubtv.link/may0105/phpcode/lista1.php?c=a08m&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Variado" tvg-logo="", CARACOL
+http://clubtv.link/may0105/phpcode/lista1.php?c=a07f&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Variado" tvg-logo="", RCN
+http://clubtv.link/may0105/phpcode/lista1.php?c=a086&token=Tecnoplus11&f=.m3u8
 
 
 
@@ -223,96 +226,53 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
 
 #CINE
-#EXTINF:-1 group-title="Cine" tvg-logo="", UNIVERSAL CRIME
-http://clubtv.link/ab1704/phpcode/lista0.php?c=32&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", STAR CHANNEL
+http://clubtv.link/may0105/phpcode/lista1.php?c=a02l&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-logo="", UNIVERSAL CINEMA
-http://clubtv.link/ab1704/phpcode/lista0.php?c=36&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", Sony
+http://clubtv.link/may0105/phpcode/lista1.php?c=a02c&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-logo="", UNIVERSAL PREMIER
-http://clubtv.link/ab1704/phpcode/lista0.php?c=31&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", Space
+http://clubtv.link/may0105/phpcode/lista1.php?c=a07y&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-logo="", UNIVERSAL REALITY
-http://clubtv.link/ab1704/phpcode/lista0.php?c=35&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", Studio Universal
+http://clubtv.link/may0105/phpcode/lista1.php?c=a094&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-logo="", UNIVERSAL CHANNEL
-http://clubtv.link/ab1704/phpcode/lista0.php?c=38&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", Studio Universal
+http://clubtv.link/may0105/phpcode/lista1.php?c=a094&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-logo="", HBO PLUS
-http://clubtv.link/ab1704/phpcode/lista0.php?c=21&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", HBO
-http://clubtv.link/ab1704/phpcode/lista0.php?c=24&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", HBO 2
-http://clubtv.link/ab1704/phpcode/lista0.php?c=23&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", HBO FAMILY
-http://clubtv.link/ab1704/phpcode/lista0.php?c=22&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", HBO SIGNATURE
-http://clubtv.link/ab1704/phpcode/lista0.php?c=20&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", HBO XTREME
-http://clubtv.link/ab1704/phpcode/lista0.php?c=16&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", AXN
-http://clubtv.link/ab1704/phpcode/lista0.php?c=55&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", SPACE
-http://clubtv.link/ab1704/phpcode/lista0.php?c=10&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", TNT
-http://clubtv.link/ab1704/phpcode/lista0.php?c=6&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", TNT SERIES
-http://clubtv.link/ab1704/phpcode/lista0.php?c=5&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", A&E
+http://clubtv.link/may0105/phpcode/lista1.php?c=a085&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 group-title="Cine" tvg-logo="", AMC
-http://clubtv.link/ab1704/phpcode/lista0.php?c=57&token=Tecnoplus11&f=.m3u8
+http://clubtv.link/may0105/phpcode/lista1.php?c=a047&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", AXN
+http://clubtv.link/may0105/phpcode/lista1.php?c=a08q&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", AXN
+http://clubtv.link/may0105/phpcode/lista1.php?c=a08q&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 group-title="Cine" tvg-logo="", CINECANAL
-http://clubtv.link/ab1704/phpcode/lista0.php?c=50&token=Tecnoplus11&f=.m3u8
+http://clubtv.link/may0105/phpcode/lista1.php?c=a046&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-logo="", CINEMAX
-http://clubtv.link/ab1704/phpcode/lista0.php?c=49&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", GOLDEN PLUS
-http://clubtv.link/ab1704/phpcode/lista0.php?c=26&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", GOLDEN PREMIER
-http://clubtv.link/ab1704/phpcode/lista0.php?c=25&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", Az Cinema
-http://clubtv.link/ab1704/phpcode/lista0.php?c=89&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", SYFY
-http://clubtv.link/ab1704/phpcode/lista0.php?c=9&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", DE PELICULAS
+http://clubtv.link/may0105/phpcode/lista1.php?c=a08f&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 group-title="Cine" tvg-logo="", FX
-http://clubtv.link/ab1704/phpcode/lista0.php?c=27&token=Tecnoplus11&f=.m3u8
+http://clubtv.link/may0105/phpcode/lista1.php?c=a02q&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-logo="", WARNER
-http://clubtv.link/ab1704/phpcode/lista0.php?c=2&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", Golden
+http://clubtv.link/may0105/phpcode/lista1.php?c=a04d&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-logo="", SONY
-http://clubtv.link/ab1704/phpcode/lista0.php?c=11&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", UNIVERSAL CHANNEL
+http://clubtv.link/may0105/phpcode/lista1.php?c=a02m&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-logo="", STUDIO UNIVERSAL
-http://clubtv.link/ab1704/phpcode/lista0.php?c=70&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="", TNT
+http://clubtv.link/may0105/phpcode/lista1.php?c=a07z&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-logo="", TCM
-http://clubtv.link/ab1704/phpcode/lista0.php?c=73&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", CLARO CINEMA
-http://clubtv.link/ab1704/phpcode/lista0.php?c=83&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", CINE LATINO
-http://clubtv.link/ab1704/phpcode/lista0.php?c=84&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="", CINE DINAMITA
-http://clubtv.link/ab1704/phpcode/lista0.php?c=85&token=Tecnoplus11&f=.m3u8
-
+#EXTINF:-1 group-title="Cine" tvg-logo="", TNT Series
+http://clubtv.link/may0105/phpcode/lista1.php?c=a07x&token=Tecnoplus11&f=.m3u8
 
 
 
@@ -320,10 +280,10 @@ http://clubtv.link/ab1704/phpcode/lista0.php?c=85&token=Tecnoplus11&f=.m3u8
 
 
 #MUSICA
-#EXTINF:-1 group-title="Misica" tvg-logo="https://i.imgur.com/232ndRK.png" ,Afrobeats (1080p)
+#EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/232ndRK.png" ,Afrobeats (1080p)
 https://stream.ecable.tv/afrobeats/index.m3u8
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/h/i/hits.png" ,Free tv hits
+#EXTINF:-1 group-title="Musica" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/h/i/hits.png" ,Free tv hits
 https://amg01024-olympusat-flash-ono-ad-3q.amagi.tv/playlist/amg01024-olympusat-flash-ono/playlist.m3u8?url=freetv.com&genre=entertainment&us_privacy=1YNN&coppa=0&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=977a904d1756ff3e0cfc639b6b6dcfe0&dnt=0&undefined=&977a904d1756ff3e0cfc639b6b6dcfe0=&did_type=sessionid&is_lat=0&content_custom_1_param=internal&ic=IAB-1&custom_6=1368&paln=APP_nonce&wta=API_wta&ads.url=freetv.com&ads.genre=entertainment&ads.us_privacy=1YNN&ads.coppa=0&ads.app_bundle=com.olympusat.FreeTV&ads.app_name=FreeTV&ads.app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&ads.did=977a904d1756ff3e0cfc639b6b6dcfe0&ads.dnt=0&ads.is_lat=0&ads.ic=IAB-1
 
 
@@ -356,65 +316,33 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
 
 #DEPORTES
-#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 1 MX
-http://clubtv.link/ab1704/phpcode/lista0.php?c=41&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 2
+http://clubtv.link/may0105/phpcode/lista1.php?c=a02f&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 2 MX
-http://clubtv.link/ab1704/phpcode/lista0.php?c=40&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 3
+http://clubtv.link/may0105/phpcode/lista1.php?c=a040&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 3 MX
-http://clubtv.link/ab1704/phpcode/lista0.php?c=39&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 4
+http://clubtv.link/may0105/phpcode/lista1.php?c=a02n&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", FOX SPORTS 1 MX
-http://clubtv.link/ab1704/phpcode/lista0.php?c=30&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN EXTRA
+http://clubtv.link/may0105/phpcode/lista1.php?c=a07s&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", FOX SPORTS 3 MX
-http://clubtv.link/ab1704/phpcode/lista0.php?c=28&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 1
+http://clubtv.link/may0105/phpcode/lista1.php?c=a096&token=Tecnoplus11&f=. m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", TDN
-http://clubtv.link/ab1704/phpcode/lista0.php?c=8&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", FOX Sports 2
+http://clubtv.link/may0105/phpcode/lista1.php?c=a02o&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", UDN
-http://clubtv.link/ab1704/phpcode/lista0.php?c=4&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", Fox Sports 1
+http://clubtv.link/may0105/phpcode/lista1.php?c=a07i&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", AFIZZIONADOS
-http://clubtv.link/ab1704/phpcode/lista0.php?c=72&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", Fox Sports 3
+http://clubtv.link/may0105/phpcode/lista1.php?c=a024&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", WWE NETWORK
-http://clubtv.link/ab1704/phpcode/lista0.php?c=65&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="", Win Sports
+http://clubtv.link/may0105/phpcode/lista1.php?c=a02g&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", WIN SPORTS +
-http://clubtv.link/ab1704/phpcode/lista0.php?c=66&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="", WIN SPORTS
-http://clubtv.link/ab1704/phpcode/lista0.php?c=67&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="", NBA TV
-http://clubtv.link/ab1704/phpcode/lista0.php?c=74&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="", GOLTV
-http://clubtv.link/ab1704/phpcode/lista0.php?c=76&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="", LA LIGA
-http://clubtv.link/ab1704/phpcode/lista0.php?c=75&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="", FORMULA 1
-http://clubtv.link/ab1704/phpcode/lista0.php?c=81&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN SUR
-http://clubtv.link/ab1704/phpcode/lista0.php?c=77&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 2 SUR
-http://clubtv.link/ab1704/phpcode/lista0.php?c=79&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="", ESPN 3 SUR
-http://clubtv.link/ab1704/phpcode/lista0.php?c=78&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="", CLARO SPORTS
-http://clubtv.link/ab1704/phpcode/lista0.php?c=82&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="", fox sports 2 mx
-http://clubtv.link/ab1704/phpcode/lista0.php?c=29&token=Tecnoplus11&f=.m3u8
 
 
 
@@ -424,32 +352,40 @@ http://clubtv.link/ab1704/phpcode/lista0.php?c=29&token=Tecnoplus11&f=.m3u8
 
 
 #DOCUMENTALES
-#EXTINF:-1 group-title="Documentales" tvg-logo="", DISCOVERY CHANNEL
-http://clubtv.link/ab1704/phpcode/lista0.php?c=47&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-logo="", Nat Geo
+http://clubtv.link/may0105/phpcode/lista1.php?c=a045&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="", DISCOVERY TURBO
-http://clubtv.link/ab1704/phpcode/lista0.php?c=80&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-logo="", History 2
+http://clubtv.link/may0105/phpcode/lista1.php?c=a04j&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="", HISTORY CHANNEL
-http://clubtv.link/ab1704/phpcode/lista0.php?c=19&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-logo="", History Channel
+http://clubtv.link/may0105/phpcode/lista1.php?c=a02a&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="", NATGEO
-http://clubtv.link/ab1704/phpcode/lista0.php?c=15&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-logo="", ID
+http://clubtv.link/may0105/phpcode/lista1.php?c=a06o&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="", DISCOVERY ID
-http://clubtv.link/ab1704/phpcode/lista0.php?c=18&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-logo="", Discovery Theater
+http://clubtv.link/may0105/phpcode/lista1.php?c=a06r&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="", DISCOVERY H&H
-http://clubtv.link/ab1704/phpcode/lista0.php?c=46&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-logo="", Discovery Turbo
+http://clubtv.link/may0105/phpcode/lista1.php?c=a08e&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="", PARAMOUNT CHANNEL
-http://clubtv.link/ab1704/phpcode/lista0.php?c=12&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-logo="", Discovery World
+http://clubtv.link/may0105/phpcode/lista1.php?c=a06s&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="", DISCOVERY
+http://clubtv.link/may0105/phpcode/lista1.php?c=a076&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="", DISCOVERY TURBO LISTA DE EMERGENCIA
+http://clubtv.link/may0105/phpcode/lista1.php?c=a09m&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 group-title="Documentales" tvg-logo="", ANIMAL PLANET
-http://clubtv.link/ab1704/phpcode/lista0.php?c=56&token=Tecnoplus11&f=.m3u8
+http://clubtv.link/may0105/phpcode/lista1.php?c=a06t&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="", A&E
-http://clubtv.link/ab1704/phpcode/lista0.php?c=58&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-logo="", Discovery H&H
+http://clubtv.link/may0105/phpcode/lista1.php?c=a06q&token=Tecnoplus11&f=.m3u8
+
+
 
 
 
@@ -463,22 +399,8 @@ http://clubtv.link/ab1704/phpcode/lista0.php?c=58&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="NOTICIAS E INFORMATIVO " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/26c5a30029b81339ef17a02aa420f64c.webp" ,RT 
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS E INFORMATIVO " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/26c5a30029b81339ef17a02aa420f64c.webp" ,RT 
-https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
-
-
-#DOCUMENTALES
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="No logo" , DISCOVERY CHANNEL 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=47&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="No logo" , HISTORY CHANNEL 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=19&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="No logo" , NATGEO 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=15&token=Tecnoplus11&f=.m3u8
-
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="No logo" , DISCOVERY ID 
-http://clubtv.link/120425ab/phpcode/lista0.php?c=18&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 tvg-shift="-3" group-title="NOTICIAS E INFORMATIVO NOTICIAS
+http://clubtv.link/may0105/phpcode/lista1.php?c=a082&token=Tecnoplus11&f=.m3u8
 
 
 
