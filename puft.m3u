@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",PRINCIPAL
-http://clubtv.link/1005my/phpcode/lista0.php?c=32&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",@TecnotvChat
-http://clubtv.link/1005my/phpcode/lista0.php?c=32&token=Tecnoplus11&f=.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/oyRIk5f.png" group-title="Radio", TecnoRadio
-https://stream.zeno.fm/qvq7sm8mymzuv.m3u
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/F2uzttZ.png" group-title="Reality", LCDLF 1
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
